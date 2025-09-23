@@ -26,11 +26,11 @@ Ce hackathon vise à :
 L'équipes est composée de "rôle" pour simuler un cadre professionnel dans le but de mieux comprendre les différents aspect d'un projet pro.  
 Les rôles sont les suivants :
 
-- **Chef de projet** – organisation, priorisation, coordination (Yanis)
-- **Data analyst** – exploration, visualisation, storytelling (José, Joseph)
-- **Data scientist** – feature engineering, entraînement de modèles (Joseph, Jacques)
-- **Designer/UX** – interface utilisateur, lisibilité des  (Amir, José, Jacques)
-- **Présentateur** – pitch final, synthèse des résultats (toute l'équipe)
+- **Chef de projet** – organisation, priorisation, coordination 
+- **Data analyst** – exploration, visualisation, storytelling 
+- **Data scientist** – feature engineering, entraînement de modèles
+- **Designer/UX** – interface utilisateur, lisibilité des résultats
+- **Présentateur** – pitch final, synthèse des résultats
 
 ---
 
@@ -56,3 +56,16 @@ Le projet se déroule en 4 journées structurées :
 |-- slides/             # Présentation finale
 |-- README.md           # Présentation du projet (ce fichier)
 |-- requirements.txt    # Dépendances techniques (optionnel)
+```
+
+## Auteurs & contributeurs
+
+Chef de projet = Yanis
+
+Analyste Données = José, Joseph
+
+Data Scientiste = Joseph, Jacques
+
+Développeur Interface = Amir, José, Jacques
+
+Présentateur = Tout le monde
