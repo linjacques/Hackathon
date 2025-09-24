@@ -1,4 +1,0 @@
-matplotlib
-folium
-pandas
-seaborn
