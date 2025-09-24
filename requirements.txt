@@ -3,3 +3,13 @@ pandas
 numpy
 matplotlib
 scikit-learn
+folium
+streamlit-folium
+seaborn
+requests
+papermill   # exécute les notebooks depuis streamlit
+nbconvert  # convertit le notebook en script Python 
+ipykernel # Si probleme de Kernel avec les notebooks 
+# alors il faudra ajouter ton environnement virtuel comme kernel Jupyter. 
+# Enregistre ton kernel actuel sous le nom python3 (ou autre)
+# python -m ipykernel install --user --name=python3
